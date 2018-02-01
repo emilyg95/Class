@@ -10,6 +10,3 @@ print("A third line")
 
 
 print("heheheh")
-
-
-print("Jon Added a line")
